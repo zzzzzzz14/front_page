@@ -1,0 +1,98 @@
+.head{
+	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll ;
+	display: flex;
+}
+.head_img1{
+	padding-left: 30px;
+	width: 100px;
+	height: 100px;
+}
+.head_img2{
+	padding-left: 1200px;
+	padding-top: 60px;
+	width: 30px;
+	height: 30px;
+}
+.head p{
+	color: white;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 25px;
+	font-weight: bolder;
+}
+.nva{
+	min-width: 400px;
+  	max-width: 100%;
+    height: 40px;
+    line-height: 40px;
+   	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll top left;
+    color: white;
+    display: flex;
+}
+.nva a{
+	text-decoration: none;
+ 	display: block;
+	flex: 1;
+	text-align: center;
+	color: white;
+}
+.nva a:hover{
+	color: cyan;
+}
+.player_body{
+	width: 90%;
+	margin: 0 auto;
+}
+.player_body_fi{
+	border-radius: 25px;
+	height: 270px;
+	background-color: brown;
+	display: flex;
+}
+.player_body_hum{
+	padding-top: 50px;
+	padding-left: 20px;
+}
+.player_body_inf{
+	color: white;
+	line-height: 25px;
+	padding-top: 50px;
+	/*padding-left: 40px;*/
+}
+.player_body_inf1{
+	color: white;
+	padding-top: 25px;
+	padding-left: 10px;
+	line-height: 40px;
+}
+.player_body_inf2{
+	color: white;
+	padding-top: 25px;
+	line-height: 40px;
+	/*padding-left: 30px;*/
+}
+.player_body_inf3{
+	padding-left: 10px;
+	padding-top: 70px;
+}
+.player_body_flex{
+	display: flex;
+}
+.body_inf{
+	background-color: brown;
+	color: white;
+	font-family: "宋体";
+	border-radius: 25px;
+	width: 800px;
+}
+.player_body_view{
+	margin-left: 20px;
+	padding-left: 10px;
+	background-color: brown;
+	border-radius: 20px ;
+}
+.tail{
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}

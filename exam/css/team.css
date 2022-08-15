@@ -1,0 +1,128 @@
+.head{
+	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll ;
+	display: flex;
+}
+.head_img1{
+	padding-left: 30px;
+	width: 100px;
+	height: 100px;
+}
+.head_img2{
+	padding-left: 1200px;
+	padding-top: 60px;
+	width: 30px;
+	height: 30px;
+}
+.head p{
+	color: white;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 25px;
+	font-weight: bolder;
+}
+.nva{
+	min-width: 400px;
+  	max-width: 100%;
+    height: 40px;
+    line-height: 40px;
+   	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll top left;
+    color: white;
+    display: flex;
+}
+.nva a{
+	text-decoration: none;
+ 	display: block;
+	flex: 1;
+	text-align: center;
+	color: white;
+}
+.nva a:hover{
+	color: cyan;
+}
+.team_body{
+	margin: 0 auto;
+	width: 90%;
+}
+.team_body_first{
+	background-color: #0f6db4;
+	color: white;
+	font-size: 20px;
+	font-family: "微软雅黑";
+	height: 40px;
+	padding-top: 13px;
+	padding-left: 15px;
+	border-top-left-radius: 10px;
+	border-top-right-radius:10px ;
+}
+.team_table{
+}
+.team_body_sec{
+	background-color:#032f4f ;
+	color: white;
+	font-size: 15px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	height: 25px;
+	padding-top: 3px;
+}
+
+.team_body_sec font:nth-child(1){
+	padding-left: 10px;
+}
+.team_body_sec font:nth-child(2){
+	padding-left: 390px;
+}
+.team_body_sec font:nth-child(3){
+	padding-left: 375px;
+}
+.team_three{
+	display: flex;
+	background-color: #f6f6f6;
+}
+.team_three img{
+	width: 70px;
+	height: 70px;
+}
+.team_three div{
+	display: flex;
+	width: 30%;
+}
+.team_three div font{
+	padding-top: 5px;
+	font-weight: bold;
+}
+.team_threediv{
+	padding-left: 55px;
+}
+.team_threediv1{
+	padding-left: 30px;padding-top: 19px;  
+}
+.team_three div:nth-child(1){
+	border-right:solid 1px darkgrey ;
+}
+.tail{
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}
+.teamimg img{
+	width: 35px;
+	height: 35px;
+}
+.tbody div:first-child{
+	display: flex;
+}
+.tbody div:last-child{
+	padding-top: 6px;
+	padding-left: 15px;
+}
+.table_tr tr:nth-child(odd){
+	background-color: #ddd;
+}
+.teamimg a{
+	display: block;
+}
+.teamimg a:hover{
+	cursor:pointer;
+	background-color: #6495ED;
+}

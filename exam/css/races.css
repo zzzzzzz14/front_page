@@ -1,0 +1,121 @@
+.head{
+	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll ;
+	display: flex;
+}
+.head_img1{
+	padding-left: 30px;
+	width: 100px;
+	height: 100px;
+}
+.head_img2{
+	padding-left: 1200px;
+	padding-top: 60px;
+	width: 30px;
+	height: 30px;
+}
+.head p{
+	color: white;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 25px;
+	font-weight: bolder;
+}
+.nva{
+	min-width: 400px;
+  	max-width: 100%;
+    height: 40px;
+    line-height: 40px;
+   	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll top left;
+    color: white;
+    display: flex;
+}
+.nva a{
+	text-decoration: none;
+ 	display: block;
+	flex: 1;
+	text-align: center;
+	color: white;
+}
+.nva a:hover{
+	color: cyan;
+}
+.race_body{
+	width: 90%;
+	margin: 0 auto;
+}
+.race_body1{
+	color: white;
+	background-color: #428bca;
+	font-size: 25px;
+	height: 50px;
+	padding-top: 25px;
+	padding-left: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px ;
+}
+.race_body2{
+	background-color: #032f4f;
+	color: white;
+	height: 35px;
+	padding-top: 13px;
+}
+.race_body2 font:nth-child(1){
+	padding-left: 50px;
+}
+.race_body2 font:nth-child(2){
+	padding-left: 150px;
+}
+.race_body2 font:nth-child(3){
+	padding-left: 145px;
+}
+.race_body2 font:nth-child(4){
+	padding-left: 235px;
+}
+.race_body2 font:nth-child(5){
+	padding-left: 247px;
+}
+.race_body2 font:nth-child(6){
+	padding-left: 180px;
+}
+.race_body3{
+	background-color: #356da0;
+	color: white;
+	height: 30px;
+	padding-top: 10px;
+	padding-left: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px ;
+}
+.race_ta{
+	text-align: center;
+	line-height: 35px;
+}
+.race_ta a{
+	text-decoration: none;
+}
+.race_ta tr:nth-child(odd){
+	background-color: #ddd;
+}
+.race_ta_tr td:nth-child(1){
+	width: 130px;
+}
+.race_ta_tr td:nth-child(2){
+	width: 245px;
+}
+.race_ta_tr td:nth-child(3){
+	width: 125px;
+}
+.race_ta_tr td:nth-child(4){
+	width: 450px;
+}
+.race_ta_tr td:nth-child(5){
+	width: 135px;
+}
+.race_ta_tr td:nth-child(6){
+	width: 300px;
+}
+.tail{
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}

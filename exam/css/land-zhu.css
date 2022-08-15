@@ -1,0 +1,131 @@
+.head{
+	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll ;
+	display: flex;
+}
+.head_img1{
+	padding-left: 30px;
+	width: 100px;
+	height: 100px;
+}
+.head_img2{
+	padding-left: 1200px;
+	padding-top: 60px;
+	width: 30px;
+	height: 30px;
+}
+.head p{
+	color: white;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 25px;
+	font-weight: bolder;
+}
+.nva{
+	min-width: 400px;
+  	max-width: 100%;
+    height: 40px;
+    line-height: 40px;
+   	background: url(../img/house-img/header-bg_bb39ce.png) repeat scroll top left;
+    color: white;
+    display: flex;
+}
+.nva a{
+	text-decoration: none;
+ 	display: block;
+	flex: 1;
+	text-align: center;
+	color: white;
+}
+.nva a:hover{
+	color: cyan;
+}
+.landzhu_body{
+	background: url(../img/house-img/aaaa.jpg) repeat scroll top left;
+	width: 100%;
+	height: 900px;
+	display: flex;
+}
+.land_body_fi{
+	margin: 0 auto;
+	width: 600px;
+	height: 700px;
+	background-color: cornsilk;
+	margin-top: 25px;
+	border-radius: 20px ;
+}
+.land-body-text{
+	padding-top: 50px;
+	padding-left: 180px;
+	position: relative;
+}
+.namejudge{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	padding-left: 14px;
+	padding-top: 2px;
+}
+.passjudge{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	padding-left: 15px;
+	padding-top: 20px;
+}
+.repassjudge{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	padding-left: 12px;
+	padding-top: 20px;
+}
+.emailjudge{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	padding-left: 12px;
+	padding-top: 2px;
+}
+.faceimg{
+	width: 100px;
+	height: 100px;
+	margin-left: 50px;
+}
+.inname{
+	width: 200px;
+	height: 30px;
+	margin-left: 20px;
+}
+.inpass{
+	width: 200px;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 35px;
+}
+.inrepass{
+	width: 200px;
+	height: 30px;
+	margin-top: 20px;
+}
+.inemail{
+	width: 200px;
+	height: 30px;
+	margin-left:40px ;
+}
+.yantext{
+	width: 110px;
+	height: 30px;
+	margin-left: 23px;
+}
+.yanimg{
+	width: 110px;
+	height: 35px;
+}
+.zhu_button{
+	margin-left: 110px;
+}
+.tail{
+	background-color: #000000;
+	color: white;
+	text-align: center;
+}
